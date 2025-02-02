@@ -1,0 +1,6 @@
+date: has some unknown dates, question marks
+registration: remove the '-' marked rows
+fatalities: remove the ones with nothing written in them
+location: remove blank ones, remove ones with special chars.
+country: remove ones with blanks, unknowns and ?
+year: remove unknown year
